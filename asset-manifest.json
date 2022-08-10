@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/prep-project-22.AUG.PREP.2-proj2-react/static/css/main.1a4dda0f.chunk.css",
-    "main.js": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/main.2f0c77f4.chunk.js",
-    "main.js.map": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/main.2f0c77f4.chunk.js.map",
+    "main.css": "/prep-project-22.AUG.PREP.2-proj2-react/static/css/main.ff458740.chunk.css",
+    "main.js": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/main.f0fdb404.chunk.js",
+    "main.js.map": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/main.f0fdb404.chunk.js.map",
     "runtime-main.js": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/runtime-main.bfd13dc6.js",
     "runtime-main.js.map": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/runtime-main.bfd13dc6.js.map",
     "static/css/2.087c0719.chunk.css": "/prep-project-22.AUG.PREP.2-proj2-react/static/css/2.087c0719.chunk.css",
-    "static/js/2.281b061b.chunk.js": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/2.281b061b.chunk.js",
-    "static/js/2.281b061b.chunk.js.map": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/2.281b061b.chunk.js.map",
+    "static/js/2.117f6bac.chunk.js": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/2.117f6bac.chunk.js",
+    "static/js/2.117f6bac.chunk.js.map": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/2.117f6bac.chunk.js.map",
     "index.html": "/prep-project-22.AUG.PREP.2-proj2-react/index.html",
     "static/css/2.087c0719.chunk.css.map": "/prep-project-22.AUG.PREP.2-proj2-react/static/css/2.087c0719.chunk.css.map",
-    "static/css/main.1a4dda0f.chunk.css.map": "/prep-project-22.AUG.PREP.2-proj2-react/static/css/main.1a4dda0f.chunk.css.map",
-    "static/js/2.281b061b.chunk.js.LICENSE.txt": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/2.281b061b.chunk.js.LICENSE.txt",
+    "static/css/main.ff458740.chunk.css.map": "/prep-project-22.AUG.PREP.2-proj2-react/static/css/main.ff458740.chunk.css.map",
+    "static/js/2.117f6bac.chunk.js.LICENSE.txt": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/2.117f6bac.chunk.js.LICENSE.txt",
     "static/media/cap.474e6898.png": "/prep-project-22.AUG.PREP.2-proj2-react/static/media/cap.474e6898.png",
     "static/media/gloves.45497ed2.png": "/prep-project-22.AUG.PREP.2-proj2-react/static/media/gloves.45497ed2.png",
     "static/media/jacket.58fadea5.png": "/prep-project-22.AUG.PREP.2-proj2-react/static/media/jacket.58fadea5.png",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.bfd13dc6.js",
     "static/css/2.087c0719.chunk.css",
-    "static/js/2.281b061b.chunk.js",
-    "static/css/main.1a4dda0f.chunk.css",
-    "static/js/main.2f0c77f4.chunk.js"
+    "static/js/2.117f6bac.chunk.js",
+    "static/css/main.ff458740.chunk.css",
+    "static/js/main.f0fdb404.chunk.js"
   ]
 }
