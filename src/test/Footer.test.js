@@ -2,6 +2,7 @@ import { render, screen } from '@testing-library/react';
 import Footer from '../Components/Footer/Footer';
 import logo from '../assets/img/mlh-prep.png';
 
+
 describe('Footer Component', () => {
   it('should render the site footer', () => {
     render(<Footer />);
